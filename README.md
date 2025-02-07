@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman3802&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehman3802" /> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/abdulrehman-amin-7a79a61b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FcB9Y7bGR3WErsSoOdfxrA%3D%3D**
+- 📫 How to reach me **https://www.linkedin.com/in/abdulrehman-amin-a6b37a290/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
