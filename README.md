@@ -63,7 +63,9 @@ I'm a backend developer who enjoys designing clean APIs, building reliable servi
 ## Recent Activity
 
 <!--ACTIVITY:START-->
-_This section updates automatically every day._
+_No recent public activity._
+
+<sub>Last updated: 2026-11-18</sub>
 <!--ACTIVITY:END-->
 
 ---
