@@ -60,4 +60,12 @@ I'm a backend developer who enjoys designing clean APIs, building reliable servi
 
 ---
 
+## Recent Activity
+
+<!--ACTIVITY:START-->
+_This section updates automatically every day._
+<!--ACTIVITY:END-->
+
+---
+
 <p align="center">⭐ Thanks for visiting my profile!</p>
